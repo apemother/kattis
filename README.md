@@ -1,0 +1,1 @@
+# Repository for Kattis challenges
